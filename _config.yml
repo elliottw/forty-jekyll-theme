@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: elliott
+subtitle: etc
+email: elliott@elliott.io
+description: I've managed dozens of people in large scale art installations, raised millions in institutional capital for my own ML startup, helped large organizations understand and improve their culture through day-long workshops and year-long projects. I started the first coworking space in Pittsburgh, and helped a dozen waring cafes become kinder to each other. But no matter what title, I've always called myself a designer. What other profession can call empathy and thoughtfulness core competencies?
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 5407 Black St
+city: Pittsburgh
+state: PA
+zip_code: 15206
 country: United States of America
-phone: (716) 555-5555
+phone: 01 412 979 1774
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,10 +24,10 @@ github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: http://linkedin.com/in/elliottw
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/elliottwilliams
 
 # build settings
 markdown: kramdown

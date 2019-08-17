@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Creating a Culture of Innovation
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'How strategy, culture, and design can create new business lines in a well established company'
+image: assets/images/you-x-ventures-Oalh2MojUuk-unsplash.jpg
 nav-menu: true
 ---
 
