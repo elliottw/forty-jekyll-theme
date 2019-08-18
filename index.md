@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I've managed dozens of people in large scale art installations, raised millions in institutional capital for my own AI startup, helped large organizations understand and improve their culture through day-long workshops and year-long projects. But no matter what I'm doing, whether it's creating a coworking space or helping warring cafes become kinder to each, I've always called myself a designer. I do this not because of any methodology I apply, but because I always move forward with empathy and thoughtfulness as my main modes of operation.

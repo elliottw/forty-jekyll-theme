@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>I'VE MANAGED DOZENS OF PEOPLE IN LARGE SCALE ART INSTALLATIONS, RAISED MILLIONS IN INSTITUTIONAL CAPITAL FOR MY OWN ML STARTUP, HELPED LARGE ORGANIZATIONS UNDERSTAND AND IMPROVE THEIR CULTURE THROUGH DAY-LONG WORKSHOPS AND YEAR-LONG PROJECTS. I STARTED THE FIRST COWORKING SPACE IN PITTSBURGH, AND HELPED A DOZEN WARING CAFES BECOME KINDER TO EACH OTHER. BUT NO MATTER WHAT TITLE, I'VE ALWAYS CALLED MYSELF A DESIGNER. WHAT OTHER PROFESSION CAN CALL EMPATHY AND THOUGHTFULNESS CORE COMPETENCIES?</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
